@@ -1,0 +1,7 @@
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\bin\Debug\BackPropagationXor.exe.config
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\bin\Debug\BackPropagationXor.exe
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\bin\Debug\BackPropagationXor.pdb
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\obj\Debug\BackPropagationXor.csprojAssemblyReference.cache
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\obj\Debug\BackPropagationXor.csproj.CoreCompileInputs.cache
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\obj\Debug\BackPropagationXor.exe
+C:\Users\renan.barbosa\source\repos\BackPropagationXor\BackPropagationXor\obj\Debug\BackPropagationXor.pdb
